@@ -21,7 +21,7 @@ import java.time.LocalDateTime;
 public class App {
     // Moi noniue changes
    //pizdec
-
+private  String he;
     //HelloWorld
     public static void main(String[] args) {
         SpringApplication.run(App.class,args);
